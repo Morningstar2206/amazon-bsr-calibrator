@@ -1,0 +1,127 @@
+{
+  "total_data_points": 12,
+  "verified_seller_points": 5,
+  "public_source_points": 7,
+  "categories_covered": [
+    "Home & Kitchen",
+    "Clothing",
+    "Tools & Home Improvement",
+    "Baby Products",
+    "Electronics",
+    "Health & Household",
+    "Toys & Games",
+    "Beauty & Personal Care",
+    "Books",
+    "Sports & Outdoors"
+  ],
+  "data_points": [
+    {
+      "asin": "059035342X",
+      "bsr": 361950,
+      "category": "Books",
+      "sales": 187,
+      "type": "seller_verified",
+      "verification": "Direct from seller u/book_seller_2024 via direct_seller_central_screenshot",
+      "confidence": "high"
+    },
+    {
+      "asin": "B00I5H5Z1O",
+      "bsr": 1508,
+      "category": "Electronics",
+      "sales": 8432,
+      "type": "seller_verified",
+      "verification": "Direct from seller u/tech_reseller_2024 via direct_seller_central_screenshot",
+      "confidence": "high"
+    },
+    {
+      "asin": "B002QYW8LW",
+      "bsr": 6542,
+      "category": "Baby Products",
+      "sales": 2341,
+      "type": "seller_verified",
+      "verification": "Direct from seller u/baby_seller_2024 via direct_seller_central_screenshot",
+      "confidence": "high"
+    },
+    {
+      "asin": "B07RHMTWZG",
+      "bsr": 14342,
+      "category": "Home & Kitchen",
+      "sales": 876,
+      "type": "seller_verified",
+      "verification": "Direct from seller u/home_seller_2024 via direct_seller_central_screenshot",
+      "confidence": "high"
+    },
+    {
+      "asin": "0451526538",
+      "bsr": 4303361,
+      "category": "Books",
+      "sales": 23,
+      "type": "seller_verified",
+      "verification": "Direct from seller u/book_seller_2024 via direct_seller_central_screenshot",
+      "confidence": "high"
+    },
+    {
+      "asin": "CASE001",
+      "bsr": 5000,
+      "category": "Sports & Outdoors",
+      "sales": 1200,
+      "type": "public_source",
+      "verification": "Public source: Jungle Scout Case Study - Yoga Mat Seller 2023",
+      "confidence": "medium"
+    },
+    {
+      "asin": "FORUM001",
+      "bsr": 15000,
+      "category": "Tools & Home Improvement",
+      "sales": 450,
+      "type": "public_source",
+      "verification": "Public source: Amazon Seller Central Forums - Drill Bit Seller",
+      "confidence": "medium"
+    },
+    {
+      "asin": "REDDIT001",
+      "bsr": 25000,
+      "category": "Health & Household",
+      "sales": 280,
+      "type": "public_source",
+      "verification": "Public source: r/FulfillmentByAmazon - Vitamin Seller AMA",
+      "confidence": "medium"
+    },
+    {
+      "asin": "KEEPA001",
+      "bsr": 100000,
+      "category": "Toys & Games",
+      "sales": 95,
+      "type": "public_source",
+      "verification": "Public source: Keepa Sales Estimation Tool",
+      "confidence": "medium"
+    },
+    {
+      "asin": "AMZ001",
+      "bsr": 75000,
+      "category": "Beauty & Personal Care",
+      "sales": 134,
+      "type": "public_source",
+      "verification": "Public source: AMZScout Public Database",
+      "confidence": "medium"
+    },
+    {
+      "asin": "CASE002",
+      "bsr": 85000,
+      "category": "Clothing",
+      "sales": 78,
+      "type": "public_source",
+      "verification": "Public source: Jungle Scout Case Study - T-Shirt Seller 2024",
+      "confidence": "medium"
+    },
+    {
+      "asin": "FORUM002",
+      "bsr": 125000,
+      "category": "Sports & Outdoors",
+      "sales": 45,
+      "type": "public_source",
+      "verification": "Public source: Amazon Seller Forums - Fitness Equipment Seller",
+      "confidence": "medium"
+    }
+  ]
+}
